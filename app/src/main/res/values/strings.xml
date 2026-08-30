@@ -1096,7 +1096,7 @@
     <!-- Settings: Discord Group -->
     <string name="settings_discord_title">Discord</string>
     <string name="settings_discord_rich_presence_title">Show game on Discord</string>
-    <string name="settings_discord_rich_presence_subtitle">Publish the game you are playing as your Discord activity. Needs the Discord app installed and signed in.</string>
+    <string name="settings_discord_rich_presence_subtitle">Share your game as your Discord activity. Requires Discord installed and signed in.</string>
 
     <!-- Settings: Info Group -->
     <string name="settings_info_title">Info</string>
